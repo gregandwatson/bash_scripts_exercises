@@ -1,0 +1,11 @@
+Batman
+Superman
+Wonder Woman
+Flash 
+Green Lantern
+Martian Manhunter
+Green Arrow
+Black Canary
+
+This file was read on: Tue Dec 27 22:21:55 EST 2016
+This file was read on: Tue Dec 27 22:22:50 EST 2016
