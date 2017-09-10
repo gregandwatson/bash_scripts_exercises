@@ -10,6 +10,6 @@ echo $?
 
 echo "This second statement will show a successful execution and exit code"
 
-ls -al
+ls -al exit.sh
 
 echo $?
